@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155982657404",
+    "firebase_url": "https://chat-27794.firebaseio.com",
+    "project_id": "chat-27794",
+    "storage_bucket": "chat-27794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155982657404:android:7af7c877bbea9e1bffd6f9",
+        "android_client_info": {
+          "package_name": "co.medhaterror.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155982657404-nl1gi1od9s1ckbsfg0tl6burrhuthouj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDGwjR5fCfMPe7rOn_BCTQNGSm8Q4dI3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155982657404-nl1gi1od9s1ckbsfg0tl6burrhuthouj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
